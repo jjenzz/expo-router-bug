@@ -2,6 +2,7 @@
   "expo": {
     "name": "expo-router-bug",
     "slug": "expo-router-bug",
+    "scheme": "expo-router-bug",
     "version": "1.0.0",
     "orientation": "portrait",
     "icon": "./assets/icon.png",
@@ -14,9 +15,7 @@
     "updates": {
       "fallbackToCacheTimeout": 0
     },
-    "assetBundlePatterns": [
-      "**/*"
-    ],
+    "assetBundlePatterns": ["**/*"],
     "ios": {
       "supportsTablet": true
     },
